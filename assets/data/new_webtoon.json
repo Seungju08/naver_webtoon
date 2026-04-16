@@ -1,0 +1,58 @@
+{
+  "webtoons": [
+    {
+      "title": "연애혁명",
+      "authors": "232",
+      "rating": 9.87,
+      "cover": "001.png"
+    },
+    {
+      "title": "외모지상주의",
+      "authors": "박태준",
+      "rating": 9.43,
+      "cover": "002.png"
+    },
+    {
+      "title": "화산귀환",
+      "authors": "LICO / 비가",
+      "rating": 9.88,
+      "cover": "003.png"
+    },
+    {
+      "title": "약한영웅",
+      "authors": "서패스",
+      "rating": 9.69,
+      "cover": "004.png"
+    },
+    {
+      "title": "유미의 세포들",
+      "authors": "이동건",
+      "rating": 9.93,
+      "cover": "005.png"
+    },
+    {
+      "title": "킬러 배드로",
+      "authors": "김정현 / 임리나",
+      "rating": 9.95,
+      "cover": "006.png"
+    },
+    {
+      "title": "신체",
+      "authors": "엄세윤",
+      "rating": 9.89,
+      "cover": "007.png"
+    },
+    {
+      "title": "이직로그",
+      "authors": "우시목 / 이하안",
+      "rating": 9.95,
+      "cover": "008.png"
+    },
+    {
+      "title": "99강화나무몽둥이",
+      "authors": "홍실 / 지페리",
+      "rating": 9.70,
+      "cover": "009.png"
+    }
+  ]
+}
